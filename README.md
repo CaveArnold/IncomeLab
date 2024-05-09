@@ -1,2 +1,2 @@
 # IncomeLab
-Tracking IncomeLab feature re quests.
+Tracking IncomeLab feature requests.
